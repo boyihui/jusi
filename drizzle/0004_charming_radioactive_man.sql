@@ -1,0 +1,1 @@
+ALTER TABLE `stock_details` MODIFY COLUMN `hotConcept` varchar(100);

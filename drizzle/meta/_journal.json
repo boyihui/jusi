@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1768893642021,
+      "tag": "0000_nifty_king_bedlam",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1768893713572,
+      "tag": "0001_volatile_devos",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1768976834674,
+      "tag": "0002_kind_spyke",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1768985667168,
+      "tag": "0003_omniscient_ser_duncan",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1768989531069,
+      "tag": "0004_charming_radioactive_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1768990315289,
+      "tag": "0005_lumpy_mystique",
+      "breakpoints": true
+    }
+  ]
+}
